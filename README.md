@@ -3,6 +3,7 @@
 ## Setup
 
 There's some required associated plugins and theme components for this to work
+- You need to have the "[Topic Thumbnails](https://meta.discourse.org/t/topic-list-thumbnails-theme-component/150602)" theme component installed and include it on your discourse themes.
 
 ### Admin settings
 
